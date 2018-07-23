@@ -1,2 +1,2 @@
 # hello-world
-Learning
+Learning how to create a branch, edit it and commit it
